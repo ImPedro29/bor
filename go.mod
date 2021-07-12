@@ -1,4 +1,4 @@
-module github.com/polygon/go-matic
+module github.com/ImPedro29/bor
 
 go 1.15
 
